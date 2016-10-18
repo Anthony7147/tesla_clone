@@ -1,0 +1,113 @@
+body {
+	background-image: url("https://2.bp.blogspot.com/-WQpK43HxuG8/V2MWCiKzPGI/AAAAAAAArCw/4_QQDNZSJCI5bdOnZQb-7JQe3ztcQii6QCLcB/s1600/tesla-supercar-rendering-2.jpg");
+	width: 100%;
+    height: 400px;
+    background-size: cover;
+ }
+ h1 {
+	text-decoration: none;
+    font-size: 900;
+    font-weight: initial;
+    padding-top: 150px;
+}
+h2 a{
+    color: white;
+    font-size: .8em;
+}
+ #nav {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+
+ }
+
+#nav-left li {
+	list-style-type: none;
+    float: left;
+    font-family: sans-serif;
+    font-style: oblique; 
+    font-weight: 600;
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-size: .8em;
+    text-decoration: underline;
+	
+
+}
+#nav-right li {
+	list-style-type: none;
+    float: right;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-size: .8em;
+    text-decoration: underline;
+}
+#nav-center li a {
+	float: center;
+	font-family: sans-serif;
+	color: white;
+    display: inline-block;
+    list-style-type: none;
+	
+}
+
+#nav-right li a {
+	text-decoration: underline;
+	color: white;
+}
+#nav-left li a {
+	text-decoration: underline;
+	color: white;
+}
+.center{
+	text-align: center;
+	color: white;
+	
+}
+#search-buttons {
+    clear: both;
+    margin-top: 30px;
+}
+
+.button {
+    border-radius: 2px;
+    width: 140px;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    position: relative;
+    font-size: .80em;
+    font-family: Arial;
+    text-align: center;
+    font-weight: 600;
+    margin: 0px 5px 5px 5px;
+    border: 0px solid white;
+}
+.button:hover {
+    border: 1px solid white;
+}
+footer ul li {
+	color:white;
+	font-family: sans-serif;
+	font-size: .8em;
+	display: inline-block;
+	list-style-type: none;
+} 
+footer{
+   	position: absolute;
+	bottom: 0px; 
+	width: 100%;
+	text-align: center
+}
+img {
+  	width:5%;
+  }
+
+
+
